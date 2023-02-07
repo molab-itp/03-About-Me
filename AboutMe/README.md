@@ -12,7 +12,7 @@ You can change all of the data, or content, in the app to be about any topic of 
 
 ## Tutorial
 
-[View a tutorial on this sample.](doc://com.apple.documentation/tutorials/sample-apps/AboutMe)
+[View a tutorial on this sample.](https://developer.apple.com/tutorials/sample-apps/aboutme)
 
 ## Running the Sample Code Project
 
