@@ -1,6 +1,4 @@
-# 03-About-Me
-
-- [03-About-Me](https://github.com/mobilelabclass-itp/03-About-Me)
+# [03-About-Me](https://github.com/mobilelabclass-itp/03-About-Me)
 
 - [Based on: sample-apps/aboutme - tutorial](https://developer.apple.com/tutorials/sample-apps/aboutme)
 
