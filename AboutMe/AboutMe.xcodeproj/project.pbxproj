@@ -17,6 +17,7 @@
 		ABB2E06629922473001E5CBC /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB2E06129922473001E5CBC /* Data.swift */; };
 		ABB2E06729922473001E5CBC /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB2E06229922473001E5CBC /* HomeView.swift */; };
 		ABB2E06929922635001E5CBC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = ABB2E06829922635001E5CBC /* README.md */; };
+		ABEA5BB72997745F005E7148 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = ABEA5BB62997745F005E7148 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		ABB2E06129922473001E5CBC /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		ABB2E06229922473001E5CBC /* HomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		ABB2E06829922635001E5CBC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		ABEA5BB62997745F005E7148 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,7 +49,7 @@
 		ABB2E04429922356001E5CBC = {
 			isa = PBXGroup;
 			children = (
-				ABB2E06829922635001E5CBC /* README.md */,
+				ABEA5BB62997745F005E7148 /* README.md */,
 				ABB2E04F29922356001E5CBC /* AboutMe */,
 				ABB2E04E29922356001E5CBC /* Products */,
 			);
@@ -64,6 +66,7 @@
 		ABB2E04F29922356001E5CBC /* AboutMe */ = {
 			isa = PBXGroup;
 			children = (
+				ABB2E06829922635001E5CBC /* README.md */,
 				ABB2E05029922357001E5CBC /* AboutMeApp.swift */,
 				ABB2E05229922357001E5CBC /* ContentView.swift */,
 				ABB2E06129922473001E5CBC /* Data.swift */,
@@ -145,6 +148,7 @@
 			files = (
 				ABB2E06929922635001E5CBC /* README.md in Resources */,
 				ABB2E05829922358001E5CBC /* Preview Assets.xcassets in Resources */,
+				ABEA5BB72997745F005E7148 /* README.md in Resources */,
 				ABB2E05529922358001E5CBC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

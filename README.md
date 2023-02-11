@@ -1,5 +1,7 @@
 # 03-About-Me
 
+- [03-About-Me)](https://github.com/mobilelabclass-itp/03-About-Me)
+
 - [Based on: sample-apps/aboutme - tutorial](https://developer.apple.com/tutorials/sample-apps/aboutme)
 
   - requires the latest version of the [Swift Playgrounds App](https://apps.apple.com/us/app/swift-playgrounds/id908519492), runs on macOS and iPad
