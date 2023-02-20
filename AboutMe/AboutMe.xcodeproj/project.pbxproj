@@ -17,7 +17,6 @@
 		ABB2E06629922473001E5CBC /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB2E06129922473001E5CBC /* Data.swift */; };
 		ABB2E06729922473001E5CBC /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABB2E06229922473001E5CBC /* HomeView.swift */; };
 		ABB2E06929922635001E5CBC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = ABB2E06829922635001E5CBC /* README.md */; };
-		ABEA5BB72997745F005E7148 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = ABEA5BB62997745F005E7148 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -148,7 +147,6 @@
 			files = (
 				ABB2E06929922635001E5CBC /* README.md in Resources */,
 				ABB2E05829922358001E5CBC /* Preview Assets.xcassets in Resources */,
-				ABEA5BB72997745F005E7148 /* README.md in Resources */,
 				ABB2E05529922358001E5CBC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
