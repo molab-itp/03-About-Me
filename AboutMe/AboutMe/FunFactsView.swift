@@ -26,8 +26,6 @@ struct FunFactsView: View {
     }
 }
 
-struct FunFactsView_Previews: PreviewProvider {
-    static var previews: some View {
-        FunFactsView()
-    }
+#Preview {
+    FunFactsView()
 }

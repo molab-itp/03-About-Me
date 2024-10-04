@@ -1,6 +1,6 @@
 /*
-See the License.txt file for this sample’s licensing information.
-*/
+ See the License.txt file for this sample’s licensing information.
+ */
 
 import SwiftUI
 
@@ -25,7 +25,7 @@ struct FavoritesView: View {
                 .padding()
             }
             .padding()
-
+            
             Text("Foods")
                 .font(.title2)
             
@@ -36,10 +36,10 @@ struct FavoritesView: View {
                 }
             }
             .padding()
-
+            
             Text("Favorite Colors")
                 .font(.title2)
-
+            
             HStack(spacing: 30) {
                 ForEach(information.colors, id: \.self) { color in
                     color
@@ -52,8 +52,6 @@ struct FavoritesView: View {
     }
 }
 
-struct FavoritesView_Previews: PreviewProvider {
-    static var previews: some View {
-        FavoritesView()
-    }
+#Preview {
+    FavoritesView()
 }
