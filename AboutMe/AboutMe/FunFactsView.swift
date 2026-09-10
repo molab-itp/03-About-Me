@@ -20,7 +20,7 @@ struct FunFactsView: View {
 
             Button("Show Random Fact") {
                 funFact = information.funFacts.randomElement()!
-            }
+            }.foregroundStyle(.primary)
         }
         .padding()
     }
